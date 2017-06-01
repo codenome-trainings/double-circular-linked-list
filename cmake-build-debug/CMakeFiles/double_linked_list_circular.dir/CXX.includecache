@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/double_linked_list_circular.cpp
+double_linked_list_circular.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/double_linked_list_circular.h
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/double_linked_list_circular.h
+iostream
+-
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/main.cpp
+navigation.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/navigation.h
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/navigation.cpp
+navigation.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/navigation.h
+double_linked_list_circular.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/double_linked_list_circular.h
+conio.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/conio.h
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/navigation.h
+

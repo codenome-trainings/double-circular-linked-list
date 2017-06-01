@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Thiago Cunha\Documents\Faculdade\estrutura-de-dados\p2\nivel3\double-linked-list-circular"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/double-linked-list-circular/cmake-build-debug

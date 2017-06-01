@@ -1,0 +1,11 @@
+//
+// Created by Thiago Cunha on 25/05/2017.
+//
+
+#ifndef DOUBLE_LINKED_LIST_CIRCULAR_NAVIGATION_H
+#define DOUBLE_LINKED_LIST_CIRCULAR_NAVIGATION_H
+
+void menu();
+int enterNumber();
+
+#endif //DOUBLE_LINKED_LIST_CIRCULAR_NAVIGATION_H
